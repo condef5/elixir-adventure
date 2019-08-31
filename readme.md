@@ -1,6 +1,6 @@
 # Elixir Adventure
 
-![elixir-logo](./__docs__/elixir.png)
+<img src="./__docs__/elixir.png" width="100px" />
 
 List of programs in elixir-lang:
 
